@@ -1,0 +1,33 @@
+.card {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.card img {
+  width: 100%;
+  height: 40vh;
+  margin-bottom: 4rem;
+}
+
+.card-content {
+  padding: 1rem 1.3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.super_hit {
+  background-color: lightgreen;
+}
+
+.avg {
+  background-color: lightblue;
+}
+
+.common_btn_styling {
+  padding: 1rem 3rem;
+}
+
+li {
+  list-style: none;
+}

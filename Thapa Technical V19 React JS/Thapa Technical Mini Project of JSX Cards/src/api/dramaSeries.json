@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Aisi Hay Tanhai",
+    "id": "Aisi Hay Tanhai ",
+    "img_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6249848-cb26-45d3-b267-c56351b05b62/ddkakhm-d4e1222c-253b-4b9e-8f3b-4caf64b82047.png/v1/fit/w_375,h_375/aisi_hai_tanhai_pak_tv_drama_folder_icon_by_imtiaz_by_imtiaz009_ddkakhm-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvZDYyNDk4NDgtY2IyNi00NWQzLWIyNjctYzU2MzUxYjA1YjYyXC9kZGtha2htLWQ0ZTEyMjJjLTI1M2ItNGI5ZS04ZjNiLTRjYWY2NGI4MjA0Ny5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wZRr6QDgaQDTBSgpo20Dh7dWjpR5I_axF-i37RONZok",
+    "rating": "4.85",
+    "description": "Pakeeza, a young woman, is madly in love with her boyfriend, Hamza. She faces a lot of troubles in her life following a social media incident.",
+    "cast": ["Sonya Hussain as Pakeeza Islam " ,
+    "Sami Khan as Hamza " ,
+    "Nadia Khan as Kinza " ,
+    "Sadia Ghaffar as Ramsha " ,
+    "Saba Hameed as Khadija Islam " ,
+    "Shehryar Zaidi as Hamza's father " ,
+    "Seemi Pasha as Hamza's mother ",
+    "Kamran Jilani as Dr. Saad "],
+    "number_of_episodes" : 33 ,
+    "watch_url": "https://youtube.com/playlist?list=PLb2aaNHUy_gHE7BdbcXQSNBh5Xoq_ann0&si=XHnxRNPnOuABJQSJ" , 
+    "genre" : ["Tragedy" , "Romance film"]
+  },
+  {
+    "name": "Baby Baji",
+    "id": "Baby Baji",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNzBkZWQ0ZWEtZTRkYS00NDY2LWI2NWEtYTZlNDg1NjY4YzVlXkEyXkFqcGdeQXVyMTc4NDMwNzky._V1_.jpg",
+    "rating": "4.93",
+    "description": "After her husband's illness, Baby baji struggles to hold the family together.",
+    "cast": ["Samina Ahmad as Baby Baji", "Saud Qasmi as Jamal ", "Javeria Saud as Azra", "Hassan Ahmed as Wasif", "Sunita Marshall as Farhat", "Junaid Jamshed Niazi"],
+    "number_of_episodes" : 65 ,
+    "watch_url": "https://youtube.com/playlist?list=PLb2aaNHUy_gEqdo-j0QgfHHY-tW75QRva&si=Zj2C3C5zvyRfIbtl" , 
+    "genre" : ["Soap opera" , "Family Drama" ]
+  },
+  {
+    "name": "Hum Tum",
+    "id": "Hum Tum",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0rDg_DWAM-6_O5JUvXWqQFMdD-bkPVT-uMi2PLMYJBXuhrlk9__hK7aciv7Kxo0VJF4&usqp=CAU",
+    "rating": "4.91",
+    "description": "The series revolves around two houses in one neighborhood where one house has intelligent girls while the other possesses good mannered boys.",
+    "cast": ["Ahad Raza Mir as 'Adi' Adam Sultan" , "Ramsha Khan as Neha Qutub ud Din" , "Junaid Khan as Sarmad Sultan" , "Sarah Khan as Maha Qutub ud Din Sultan"],
+    "number_of_episodes" : 31,
+    "watch_url": "https://youtube.com/playlist?list=PLbVdwtmx18ssUaSUae1Fm_RFLIzXLJckH&si=jzeiv8seBfV5B3oV" , 
+    
+    "genre" : ["Comedy" , "Romance" , "Family Drama"]
+  },
+  {
+    "name": "Ehd e Wafa",
+    "id": "Ehd e Wafa",
+    "img_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHso9iRcXCiWjcDn2pSBlqK9vV5OmwgKp-swYPEMPxkFDtkHRO7Olse0vZf4aqOJpoh0oL-tDThaDo2OcV49RFcG4q7G6xmdDkPb5EEw",
+    "rating": "4.8",
+    "description": "Four college friends Saad, Shahzain, Shariq and Shehryar, go through various trials and tribulations as misunderstandings between them grow.",
+    "cast": ["Ahad Raza Mir as Captain Saad Faraz" , "Osman Khalid Butt as Malik Shahzain " , "Ahmed Ali Akbar as Shahryar Sherry Afzal" , "Wahaj Ali as Shariq 'Shark' Habib" , "Alizeh Shah as Captain Dr. Dua Saad" , "Zara Noor Abbas as Rani Shahzain"],
+    "number_of_episodes" : 25,
+    "watch_url": "https://youtube.com/playlist?list=PLbVdwtmx18svFpxCrk8hwA5iyCKBPx67_&si=Q6gHJ-RdGRx0jePg" , 
+    "genre" : ["Comedy" , "Serial Drama" , "Friendship"]
+  },
+  {
+    "name": "Yaqeen Ka Safar",
+    "id": "Yaqeen Ka Safar",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7NPrWUEOfJLAEPu65AiTqtJrfkorJ8bfCA&s",
+    "rating": "4.92",
+    "description": "A young woman is shattered by the death of her mother caused by her father; an upright lawyer fights for justice when a poor girl is sexually assaulted by a political heir and his friends.",
+    "cast": ["Ahad Raza Mir as Dr. Asfandyar Ali Khan " , "Sajal Aly as Dr. Zubiya Khalil " , "Hira Mani as Gaeti Daniyal Ali Khan " , "Shaz Khan as Barrister Daniyal Ali Khan " , "Farhan Ali Agha as Barrister Usman Ali Khan " , "Suhaee Abro as Noori"],
+    "number_of_episodes" : 29,
+    "watch_url": "https://youtube.com/playlist?list=PLbVdwtmx18sufVJqxqhRpa27go9_a9ZH6&si=eLxri1FknVPkC1c0" , 
+    "genre" : ["Drama" , "Romance" , "Medicine" , "Crime Fiction" ]
+
+  }
+]
