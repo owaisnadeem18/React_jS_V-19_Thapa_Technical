@@ -1,0 +1,1 @@
+# Without using UseEffect hook , if you are fetching api data , then this is a bad ****
