@@ -48,16 +48,30 @@ input:focus {
 }
 
 .grid-parent {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  /* display: grid;
+  grid-template-columns: repeat(3, 1fr); */
   gap: 1rem;
-  text-align: center;
-  margin: 3.2rem 0;
-  align-items: center;
-  border: 3px solid rgb(0, 0, 0);
-  /* width: 100%; */
+  /* text-align: center; */
+  /* margin: 1rem 0; */
+  /* align-items: center; */
+  display: flex;
+  justify-content: space-around;
 }
 
 .pokemon-info {
-  border: 4px solid red;
+  text-align: center;
+}
+
+.pokemon-info p {
+  margin: 0;
+  background-color: rgb(119, 161, 186);
+  text-align: center;
+  color: white;
+  padding: 0 0.4rem;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.bold {
+  font-weight: 600;
 }

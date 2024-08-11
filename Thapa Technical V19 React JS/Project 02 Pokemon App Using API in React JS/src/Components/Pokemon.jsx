@@ -50,8 +50,10 @@ let Pokemon = () => {
 
   if (Loading) {
     return (
-      <div className="loading">
-        <h1>Loading...</h1>
+      <div className="parent-loader loading">
+        <div class="spinner-grow text-primary" role="status">
+          <span class="visually-hidden">Loading...</span>
+        </div>
       </div>
     );
   }
@@ -69,6 +71,7 @@ let Pokemon = () => {
       <div className="container first ">
         <h2>Search Pokémon</h2>
         <input
+          className="key-input"
           type="text"
           placeholder="Search Pokemon"
           value={search}
